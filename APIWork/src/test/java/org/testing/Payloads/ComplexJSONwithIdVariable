@@ -1,0 +1,17 @@
+{
+      "firstname": "zoe",
+      "secondaryAddress": {
+        "address": "secondaryAddress",
+        "houseno": "500",
+        "sector": "10"
+      },
+      "primaryAddress": {
+        "address": "primaryAddress",
+        "houseno": "201",
+        "landmark": "cinema",
+        "sector": "50"
+      },
+      "age": "24",
+      "lastname": "zou",
+      "id": "{{id}}"
+}
